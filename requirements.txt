@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+httpx
+chardet
+python-dotenv

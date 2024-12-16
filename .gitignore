@@ -1,0 +1,5 @@
+venv
+.env
+goodreads.csv
+media.csv
+happiness.csv
